@@ -1,0 +1,12 @@
+{
+	"id": 36287249,
+	"epoch_second": 1667735495,
+	"problem_id": "tessoku_book_l",
+	"contest_id": "tessoku-book",
+	"user_id": "Nanashima",
+	"language": "Rust (1.42.0)",
+	"point": 1000,
+	"length": 446,
+	"result": "AC",
+	"execution_time": 29
+}
