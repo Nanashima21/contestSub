@@ -1,0 +1,12 @@
+{
+	"id": 36306572,
+	"epoch_second": 1667823100,
+	"problem_id": "math_and_algorithm_aq",
+	"contest_id": "tessoku-book",
+	"user_id": "Nanashima",
+	"language": "Rust (1.42.0)",
+	"point": 1000,
+	"length": 645,
+	"result": "AC",
+	"execution_time": 6
+}
