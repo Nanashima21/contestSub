@@ -1,0 +1,12 @@
+{
+	"id": 38924859,
+	"epoch_second": 1676544453,
+	"problem_id": "hhkb2020_e",
+	"contest_id": "hhkb2020",
+	"user_id": "Nanashima",
+	"language": "Rust (1.42.0)",
+	"point": 500,
+	"length": 2757,
+	"result": "AC",
+	"execution_time": 592
+}
