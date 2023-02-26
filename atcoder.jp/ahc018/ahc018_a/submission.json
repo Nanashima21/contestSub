@@ -1,0 +1,12 @@
+{
+	"id": 39217542,
+	"epoch_second": 1677399447,
+	"problem_id": "ahc018_a",
+	"contest_id": "ahc018",
+	"user_id": "Nanashima",
+	"language": "C++ (GCC 9.2.1)",
+	"point": 7697583,
+	"length": 23494,
+	"result": "AC",
+	"execution_time": 51
+}
